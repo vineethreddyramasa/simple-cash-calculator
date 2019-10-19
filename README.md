@@ -1,4 +1,2 @@
-### Calculator application built using Django
-To run the server:
-
-```python manage.py runserver```
+### Application built using Django
+App to auto-sum the clicked numbers values
